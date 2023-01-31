@@ -15,7 +15,7 @@ logger.info('another line');
 logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('I think this is enough');
-logger.info('Log entry for testing for remote');
+logger.info('Log entry for testing for remote and locally');
 //logger.info('nope, one more!');
 
 app.listen(3000, function () {
